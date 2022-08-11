@@ -1,0 +1,150 @@
+body{
+    margin:0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.nav-bar{
+    background-color: orange;
+    font-family: 'Montserrat', sans-serif;
+    text-align: right;
+    padding: 20px;
+}
+
+h1{
+    margin-top: 0px;
+    font-size: 70px;
+    font-family: 'Sacramento', cursive;
+    color: red;
+    line-height: 1;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    color:red;
+    line-height: 1;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: red;
+}
+.color{
+    background-color:orange;
+   background-size: contain;
+   padding-top:150px ;
+   
+}
+
+.box2{
+    background-color: orange;
+    padding: 20px 20px 20px 20px;
+   
+}
+.pic{
+    height: 350px;
+    width: 400px;
+    position: relative;
+    top: 200px;
+    margin-bottom: 200px;
+    right:100px ;
+
+}
+.bottompic{
+    position: relative;
+    right: 200px;
+    bottom: 800px;
+
+}
+.bottompic2{
+    position:relative;
+    left: 580px;
+    bottom: 300px;
+    
+}
+.toppic{
+    position: relative;
+    top: 100px;
+    left: 400px;
+}
+.profile{
+    border-radius: 300px;
+    margin: 100px auto 100px auto;
+}
+.burger{
+    width: 20%;
+    float: right;
+    border-radius: 100px;
+    position: relative;
+    right: 70px;
+    bottom: 20px;
+
+}
+.words{
+}
+.underline{
+    text-decoration: underline;
+
+}
+.skills{
+    margin: 100px auto 100px auto;
+    
+}
+hr{
+    border: dotted;
+    border-left: none;
+    border-bottom: none;
+    border-right: none;
+    border-width:10px;
+    width: 100px;
+    border-color: orange;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.s{
+    float: left;
+    margin-right: 20px;
+}
+.end{
+    width:500px;
+    margin:20px auto 20px ;
+}
+.btn{
+        
+        -moz-border-radius: 15px;
+        border-radius: 28px;
+        font-family:  'Merriweather', serif;;
+        color:orange;
+        font-size: 20px;
+        background:peachpuff ;
+        padding: 10px 10px 10px 10px;
+        text-decoration: none;
+        line-height: 5;
+      }
+      
+      .btn:hover {
+        background:white;
+        text-decoration: none;
+      }
+      .footer-link{
+        padding-right:20px ;
+
+
+      }
+      .copywrite{
+        color: white;
+      }
+#search{
+    width: 400px;
+    padding:20px;
+    border-radius: 20px;
+    background-color: orange;
+    opacity: 0.9
+    border-color orange;
+    text-transform:capitalize;
+    margin-left: 940px;
+    margin-top: 20px;
+
+}
